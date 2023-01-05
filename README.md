@@ -19,7 +19,7 @@ The folder structure should look like this. The only files/folders here that are
 
 3. Build the images and run the container
     - In Windows Terminal navigate to the folder where you downloaded everything and run ```docker-compose up --build```
-    - Once complete you should see some output in the terminal simialr to the image below.
+    - Once complete you should see some output in the terminal similar to the image below.
  ![image](https://user-images.githubusercontent.com/95773446/210824990-a6839371-fbad-44d5-8170-4e499cdcd1d2.png)
 
 4. Confirm the images are built and the containers are running in Docker Desktop, see the example images below
