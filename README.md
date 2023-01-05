@@ -14,7 +14,7 @@
 
 2. Clone the repository to a folder on the client. For the sake of clarity let's say we cloned the repo to c:\ which would result in a folder called c:\laravel-docker-php-mysql-phpmyadmin. You can change this to whatever you want.
 
-The folder structure should look like this. The only files/folders here that are not part of the typical Laravel file structure are noted in the image below. All of the docker build specific configuations most reside in the **dockerfile** and the **docker-compose.yml**
+The folder structure should look like this. The only files/folders here that are not part of the typical Laravel file structure are noted in the image below. All of the docker build specific configuations reside mostly in the **dockerfile** and the **docker-compose.yml**
 ![image](https://user-images.githubusercontent.com/95773446/210823628-4f7565c3-53a7-4b1c-a467-e997f46eeb88.png)
 
 3. Build the images and run the container
