@@ -36,7 +36,7 @@ The folder structure should look like this. The only files/folders here that are
 
 ![image](https://user-images.githubusercontent.com/95773446/210826386-c64c5017-5e02-434b-bfee-1918e5c0a2cf.png)
 
-&. Go build something cool. :)
+7. Go build something cool. :)
 
 
 
